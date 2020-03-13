@@ -113,7 +113,7 @@ $(document).ready(function () {
   $("#hour-16 .description").val(localStorage.getItem("hour-16"));
   $("#hour-17 .description").val(localStorage.getItem("hour-17"));
 
-  // jQuery method  
+  // jQuery method    
   // Display current day on page (moment.js or jQueryUI?)
   // at the location of the id currentDay paragraph tag, insert 
   // day name in locale set (dddd)

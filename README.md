@@ -12,13 +12,14 @@ Because local storage is not secure (not safe from prying eyes), entering sensit
 For each hour of the day you are planning, enter descriptive text, e.g. "Meet with client". If you want that hour's text to appear after you close the browser application (or tab), click the floppy disk icon at the right end of the descriptive text, for the current hour.
 
 ### Projects Links
+
 Anyone can use this calendar at:
 
-https://github.com/shininglite/workdayscheduler
+https://shininglite.github.io/workdayscheduler/
 
 Anyone can see the source code at:
 
-https://shininglite.github.io/workdayscheduler/
+https://github.com/shininglite/workdayscheduler
 
 ### Future Improvements
 
